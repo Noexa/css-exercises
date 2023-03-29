@@ -1,0 +1,18 @@
+.odd {
+    color: rgb(0, 0, 0);
+    background-color: rgb(238, 141, 141);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#num2 { 
+    color: rgb(49, 49, 190);
+    font-size: 36px;
+}
+.resize-text { 
+    font-size: 24px;
+/*unsure about syntax. Want it to be second paragraph that reads 'Im a class, but cooler!'*/
+}
+#num4 {
+    background-color: rgb(72, 250, 1);
+    font-weight: bold;
+/*Need to fix so that it inherits a font size of 24 from p2 Maybe because p2 isnt defined yet?*/
+}
